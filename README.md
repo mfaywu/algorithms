@@ -3,29 +3,38 @@
 This is where I learn more algorithms and practice implementing them in differnet languages. 
 
 Languages: 
-Java (Eclipse)
-Scala (Eclipse)
-Python 
-C++
+J - Java (Eclipse IDE)
+S - Scala (Eclipse IDE)
+P - Python (Emacs + Python 2.7.10)
+C - C++ (Emacs)
+Pe - Perl
+Ruby
+PHP
+Bash
+Zsh
+AWK
+Tcl/Tk
 
-Searching and Sorting
+## Searching and Sorting
 
 | Language | Algorithm |
 |:-------- | --------- |
-|   PC | Binary Search | 
-|      | Bubble Sort | 
-|      | Insertion Sort | 
-|      | Merge Sort | 
-|      | Merge Sort for Linked Lists | 
-|      | Heap Sort |
-|      | Quick Sort |
-|      | Radix Sort |
-|      | Counting Sort |
-|      | Bucket Sort |
-|      | Shell Sort |
-|      | Comb Sort |
-|      | Pigeonhole Sort |
-|      | Iterative Quick Sort | 
+| J-PC | Binary Search | 
+| --P- | Bubble Sort | 
+| ---- | Insertion Sort | 
+| ---- | Merge Sort | 
+| ---- | Merge Sort for Linked Lists | 
+| ---- | Heap Sort |
+| ---- | Quick Sort |
+| ---- | Radix Sort |
+| ---- | Counting Sort |
+| ---- | Bucket Sort |
+| ---- | Shell Sort |
+| ---- | Comb Sort |
+| ---- | Pigeonhole Sort |
+| ---- | Iterative Quick Sort | 
+
+## 
 
 References: 
 https://xlinux.nist.gov/dads//termsArea.html#sort

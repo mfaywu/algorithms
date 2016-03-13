@@ -1,3 +1,5 @@
+//C++ Provides binary_search(), lower_bound(), upper_bound(), equal_range() in STL
+
 #include <iostream>
 using namespace std;
  

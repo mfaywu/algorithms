@@ -1,3 +1,5 @@
+# Python provides bisect module
+
 def binary_search_i (ls, item):
     first = 0
     last = len (ls) - 1

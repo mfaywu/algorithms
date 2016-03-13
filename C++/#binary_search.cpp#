@@ -1,0 +1,25 @@
+#include <iostream>
+using namespace std;
+
+
+    return binary_search_r (ls + midpoint, length - midpoint, item);
+}
+
+bool binary_search_i (int ls[], int length, int item) {
+  return true;
+}
+
+int main() {
+  int ls []  = {1, 2, 4, 5, 9};
+  int length = 5;
+  cout << "Item list: ";
+  for (int i = 0; i < length; i++) {
+    cout << ls[i] << " ";;
+  }
+  cout << "\n";
+  cout << "Item to look for: ";
+  int item;
+  cin >> item;
+  cout << binary_search_r (ls, length, item);
+  return 0;
+}
