@@ -104,7 +104,7 @@ Languages:
 
 ## Randomized Algorithms
 
-References: 
+References:   
 https://xlinux.nist.gov/dads//termsArea.html#sort  
 https://en.wikibooks.org/wiki/Algorithms  
 http://www3.cs.stonybrook.edu/~algorith/  
