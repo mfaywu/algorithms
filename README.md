@@ -105,10 +105,10 @@ Languages:
 ## Randomized Algorithms
 
 References: 
-https://xlinux.nist.gov/dads//termsArea.html#sort
-https://en.wikibooks.org/wiki/Algorithms
-http://www3.cs.stonybrook.edu/~algorith/
-http://www.algosort.com/
-http://www.geeksforgeeks.org/fundamentals-of-algorithms/
+https://xlinux.nist.gov/dads//termsArea.html#sort  
+https://en.wikibooks.org/wiki/Algorithms  
+http://www3.cs.stonybrook.edu/~algorith/  
+http://www.algosort.com/  
+http://www.geeksforgeeks.org/fundamentals-of-algorithms/  
 
 Note: I started this because I thought it would be fun and now I'm realising my necessity of working on this because if I don't practice the languages I learned then I forget them!!!
