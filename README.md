@@ -8,22 +8,24 @@ Scala (Eclipse)
 Python 
 C++
 
-[ ] Searching and Sorting
-  [  PC] Binary Search
-  [    ] Selection Sort
-  [    ] Bubble Sort
-  [    ] Insertion Sort
-  [    ] Merge Sort
-  [    ] Merge Sort for Linked Lists
-  [    ] Heap Sort
-  [    ] Quick Sort
-  [    ] Radix Sort
-  [    ] Counting Sort
-  [    ] Bucket Sort
-  [    ] Shell Sort
-  [    ] Comb Sort
-  [    ] Pigeonhole Sort
-  [    ] Iterative Quick Sort
+Searching and Sorting
+
+| Language | Algorithm |
+|:-------- | --------- |
+|   PC | Binary Search | 
+|      | Bubble Sort | 
+|      | Insertion Sort | 
+|      | Merge Sort | 
+|      | Merge Sort for Linked Lists | 
+|      | Heap Sort |
+|      | Quick Sort |
+|      | Radix Sort |
+|      | Counting Sort |
+|      | Bucket Sort |
+|      | Shell Sort |
+|      | Comb Sort |
+|      | Pigeonhole Sort |
+|      | Iterative Quick Sort | 
 
 References: 
 https://xlinux.nist.gov/dads//termsArea.html#sort
