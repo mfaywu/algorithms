@@ -18,9 +18,8 @@ Languages:
 |:-------- | --------- | ----------- |
 | JSPC | Binary Search | SPe | 
 | --P- | Bubble Sort | 
-| ---- | Insertion Sort | 
-| ---- | Merge Sort | 
-| ---- | Merge Sort for Linked Lists | 
+| --P- | Insertion Sort | 
+| --P- | Merge Sort | 
 | ---- | Heap Sort |
 | ---- | Quick Sort |
 | ---- | Radix Sort |
