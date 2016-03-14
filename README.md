@@ -14,9 +14,9 @@ Languages:
 
 ## Searching and Sorting
 
-| Language | Algorithm |
-|:-------- | --------- |
-| J-PC | Binary Search | 
+| Language | Algorithm | In Progress | 
+|:-------- | --------- | ----------- |
+| JSPC | Binary Search | SPe | 
 | --P- | Bubble Sort | 
 | ---- | Insertion Sort | 
 | ---- | Merge Sort | 
