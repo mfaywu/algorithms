@@ -14,24 +14,20 @@ def hash(pattern):
     return hash
 
 def rabin_karp_search (text, pattern):
+    found = []
     p_len = len(pattern)
     hash_pattern = hash(pattern)
-    print ("hash of pattern is: %i" % (hash_pattern))
     hash_text = hash(text[0:p_len])
-    print ("hash at i = 0 is: %i" % (hash_text))
-    for i in range (0,  len(text)-p_len):
+    for i in range (0,  len(text)-p_len+1):
         if hash_text == hash_pattern:
-            print("Matched hash at: %i" % (i))
-            for j in range(0, p_len-1):
+            for j in range(0, p_len):
                 if text[i+j] != pattern[j]:
-                    print ("char not matched")
                     break
                 if j == p_len-1:
-                    print (i)
-        hash_text = hash_text - hash(text[i:i+1]) + hash(text[i+p_len:i+p_len+1])
-
+                    found.append(i)
+        if i+p_len < len(text):
+            hash_text = (base * (hash_text - (ord(text[i]) * math.pow(base, p_len-1)))) + (ord(text[i+p_len]))
+    return found
 text = input ("Enter string text: ")
 pattern = input ("Enter pattern to search for: ")
 print (rabin_karp_search(text, pattern))
-
-
