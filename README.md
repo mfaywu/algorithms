@@ -1,22 +1,20 @@
-# algorithms
+# algorithm
 
 This is where I learn more algorithms and practice implementing them in differnet languages. 
 
 Languages: 
-* J - Java (Eclipse IDE)
-* S - Scala (Eclipse IDE)
-* P - Python (Emacs + Python 2.7.10)
-* C - C++ (Emacs)
+* J - Java 
+* S - Scala 
+* P - Python 
+* C - C++ 
 * Pe - Perl
-* Ruby
-* PHP
-* Bash
+* Ruby, C#, C, Lisp
 
 ## Searching and Sorting
 
-| Language | Algorithm | In Progress | 
-|:-------- | --------- | ----------- |
-| JSPC | Binary Search | SPe | 
+| Language | Algorithm |
+|:-------- | --------- |
+| JSPC | Binary Search |
 | --P- | Bubble Sort | 
 | --P- | Insertion Sort | 
 | --P- | Merge Sort | 
@@ -58,9 +56,10 @@ Languages:
 
 | Language | Algorithm | 
 |:-------- | --------- |
-| ---- | Naive Pattern Searching | 
-| ---- | KMP Algorithm | 
-| ---- | Rabin-Karp | 
+| --P- | Naive Pattern Searching | 
+| --P- | KMP Algorithm | 
+| --P- | Rabin-Karp | 
+| ---- | Boyer-Moore | 
 | ---- | Anagram Substring Search | 
 
 ## Backtracking
@@ -109,5 +108,7 @@ https://en.wikibooks.org/wiki/Algorithms
 http://www3.cs.stonybrook.edu/~algorith/  
 http://www.algosort.com/  
 http://www.geeksforgeeks.org/fundamentals-of-algorithms/  
+Algorithms, 4th Edition Online: http://algs4.cs.princeton.edu/home/
 
-Note: I started this because I thought it would be fun and now I'm realising my necessity of working on this because if I don't practice the languages I learned then I forget them!!!
+
+Interview review: http://www.dsalgo.com/2013/02/index.php.html

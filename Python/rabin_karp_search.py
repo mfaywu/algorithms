@@ -1,6 +1,7 @@
 #Rabin Karp Algorithm
 #Common use: detecting plagiarism 
 #High # of matches, nonexact matching
+#Uses Rabin Fingerprint for hash function
 
 import math
 
