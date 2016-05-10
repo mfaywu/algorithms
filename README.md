@@ -43,7 +43,7 @@ Languages:
 
 | Language | Algorithm | 
 |:-------- | --------- | 
-| ---- | Minimum Cost Path |
+| --P- | Minimum Cost Path |
 | ---- | Binomial Coefficient | 
 | ---- | Knapsack Problem |
 | ---- | Longest Palindromic Subsequence | 
