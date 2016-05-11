@@ -44,7 +44,7 @@ Languages:
 | Language | Algorithm | 
 |:-------- | --------- | 
 | --P- | Minimum Cost Path |
-| ---- | Binomial Coefficient | 
+| --P- | Binomial Coefficient | 
 | ---- | Knapsack Problem |
 | ---- | Longest Palindromic Subsequence | 
 | ---- | Partition Problem | 
