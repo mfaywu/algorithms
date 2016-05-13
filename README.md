@@ -45,7 +45,7 @@ Languages:
 |:-------- | --------- | 
 | --P- | Minimum Cost Path |
 | --P- | Binomial Coefficient | 
-| ---- | Knapsack Problem |
+| --P- | Knapsack Problem |
 | ---- | Longest Palindromic Subsequence | 
 | ---- | Partition Problem | 
 | ---- | Box Stacking Problem | 
